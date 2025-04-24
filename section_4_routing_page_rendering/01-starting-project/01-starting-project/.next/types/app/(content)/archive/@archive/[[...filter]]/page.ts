@@ -1,4 +1,4 @@
-// File: C:\Users\phill\OneDrive\Desktop\udemy_courses\nextjs_reactjs_complete\section_4_routing_page_rendering\01-starting-project\01-starting-project\app\(content)\archive\@archive\[[...filter]]\page.js
+// File: C:\Users\phill\udemy_courses\nextjs-react-complete-guide\section_4_routing_page_rendering\01-starting-project\01-starting-project\app\(content)\archive\@archive\[[...filter]]\page.js
 import * as entry from '../../../../../../../app/(content)/archive/@archive/[[...filter]]/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
